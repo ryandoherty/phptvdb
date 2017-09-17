@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor
+END
+Io.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/Io.inc
+END
+EventStack.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/EventStack.inc
+END
+Converter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/Converter.inc
+END
+TutorialHighlightParser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/TutorialHighlightParser.inc
+END
+LinkClasses.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/LinkClasses.inc
+END
+clone5.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/clone5.inc.php
+END
+Errors.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/Errors.inc
+END
+phpdoc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/phpdoc.inc
+END
+common.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/common.inc.php
+END
+ProceduralPages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/ProceduralPages.inc
+END
+phpDocumentorTWordParser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/phpDocumentorTWordParser.inc
+END
+HighlightParser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/HighlightParser.inc
+END
+PackagePageElements.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/PackagePageElements.inc
+END
+Setup.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/Setup.inc.php
+END
+ParserData.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/ParserData.inc
+END
+XMLpackagePageParser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/XMLpackagePageParser.inc
+END
+clone.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/clone.inc.php
+END
+IntermediateParser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/IntermediateParser.inc
+END
+phpDocumentorTParser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/phpDocumentorTParser.inc
+END
+WordParser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/WordParser.inc
+END
+ParserElements.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/ParserElements.inc
+END
+find_phpdoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/find_phpdoc.php
+END
+Parser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/Parser.inc
+END
+InlineTags.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/InlineTags.inc
+END
+Classes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/Classes.inc
+END
+Publisher.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/Publisher.inc
+END
+ParserDocBlock.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/ParserDocBlock.inc
+END
+DocBlockTags.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/DocBlockTags.inc
+END
+ParserDescCleanup.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/ParserDescCleanup.inc
+END
+DescHTML.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/phpDocumentor/DescHTML.inc
+END

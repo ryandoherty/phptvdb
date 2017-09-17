@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests
+END
+phpDocumentorTParserGetInlineTagsTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests/phpDocumentorTParserGetInlineTagsTests.php
+END
+IntermediateParserTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests/IntermediateParserTests.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests/AllTests.php
+END
+IntermediateParserAddPrivatePageTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests/IntermediateParserAddPrivatePageTests.php
+END
+phpDocumentorSetupTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests/phpDocumentorSetupTests.php
+END
+phpDocumentorTParserTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests/phpDocumentorTParserTests.php
+END
+ParserPageTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests/ParserPageTests.php
+END
+phpDocumentorSetupCleanConverterNamePieceTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests/phpDocumentorSetupCleanConverterNamePieceTests.php
+END
+ParserClassGetSourceLocationTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests/ParserClassGetSourceLocationTests.php
+END
+phpDocumentorSetupDecideOnOrOffTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests/phpDocumentorSetupDecideOnOrOffTests.php
+END
+HighlightParserGetInlineTagsTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests/HighlightParserGetInlineTagsTests.php
+END
+ParserClassTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests/ParserClassTests.php
+END
+ParserPageGetSourceLocationTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests/ParserPageGetSourceLocationTests.php
+END
+HighlightParserTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/tests/HighlightParserTests.php
+END

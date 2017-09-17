@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/5/trunk/src/TVDB
+END
+TV_Show.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12/trunk/src/TVDB/TV_Show.class.php
+END
+TV_Shows.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9/trunk/src/TVDB/TV_Shows.class.php
+END
+TVDB.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/src/TVDB/TVDB.class.php
+END
+TV_Episode.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/TVDB/TV_Episode.class.php
+END

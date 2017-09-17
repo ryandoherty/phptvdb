@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/scripts
+END
+tokenizer_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/scripts/tokenizer_test.php
+END
+create_package.xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/scripts/create_package.xml.php
+END
+create_examples.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/scripts/create_examples.php
+END
+add_cvs.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/scripts/add_cvs.php
+END
+makedoc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/build/PhpDocumentor/scripts/makedoc.sh
+END
